@@ -22,5 +22,6 @@ Now,</br>
 &nbsp;&nbsp;&nbsp;$ cd /home/prashant_singh/rtlwifi_new</br>
 &nbsp;&nbsp;&nbsp;$ gedit abc.sh</br>
 5.Paste the following line in the editor</br>
-&nbsp;&nbsp;&nbsp;&nbsp;sudo modprobe -r rtl8723de  && sleep 5 && sudo modprobe rtl8723de ant_sel=2,</br></br>
+&nbsp;&nbsp;&nbsp;&nbsp;sudo modprobe -r rtl8723de  && sleep 5 && sudo modprobe rtl8723de ant_sel=2</br>
+6.Reboot the system</br></br>
 Hope this Helps :+1:
